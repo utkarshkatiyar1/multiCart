@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  // apiUrl: 'https://product1.prod.psi.initz.run/multikart/v1/product',
-  apiUrl: 'http://localhost:8085/multikart/v1/product',
+  apiUrl: 'https://multikart2.prod.pi.initz.run/multikart/v1/product',
+  // apiUrl: 'http://localhost:8085/multikart/v1/product',   uncomment this for running backend locally
   cartUrl: 'https://cartt.prod.psi.initz.run/multikart/v1/cart',
   orderUrl: 'https://order.prod.psi.initz.run/multikart/v1/order',
   ratingUrl: 'https://rating.prod.psi.initz.run/ratings',
